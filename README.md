@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm KemKem</h1>
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/3157/3157358.png"/></p>
+<h3 align="center">I'm from Vietnam </h3>
 
-<!--
-**kemkem221/kemkem221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## How to reach me
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanh-v%C3%A2n-nguy%E1%BB%85n-195905163/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/TienNHM" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  </a>
+  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
