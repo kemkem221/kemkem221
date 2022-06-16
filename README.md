@@ -2,10 +2,8 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3157/3157358.png" alt="kemkem221" width="200px"/>
 </p>
-<h3 align="center">I'm from Vietnam </h3>
+<h3 align="center">I'm from Vietnam. I'm teaching Korean. </h3>
 
-- 🤔 I’m looking for help with ...
--
 ## How to reach me
 
 <p align="center">
